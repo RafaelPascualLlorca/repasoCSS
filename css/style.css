@@ -1,4 +1,15 @@
 td, th {
-    border: 2px solid turquoise;
+    border: 3px solid rgb(161, 240, 233);
+    background-color: rgb(161, 240, 233);
     text-align: center;
+}
+
+td {
+    padding: 1%;
+}
+
+.juego {
+    font-size: 200%;
+    text-align: center;
+    background-color: rgb(242, 222, 96);
 }
